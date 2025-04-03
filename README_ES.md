@@ -30,6 +30,8 @@ El código está configurado para usar los siguientes pines en el ESP32:
 | SCK (Clock) | Configurado automáticamente por SPI |
 | MOSI (Data) | Configurado automáticamente por SPI |
 
+<img src="docs/diagram.png" width="50%" height="50%" alt="Ejemplo de Diagrama de Conexión"/>
+
 ## Funcionalidades
 - Inicialización de la pantalla LCD
 - Rotación de la pantalla
@@ -53,5 +55,7 @@ El ejemplo actual muestra:
 1. Información sobre los pines SPI utilizados
 2. Un mensaje de texto con "Hola a todos", "Soy un Pinball" y "Robotica para Todos"
 3. Después de 5 segundos, muestra una imagen de pinball
+
+<img src="docs/examples.png" width="50%" height="50%" alt="Resultados obtenidos"/>
 
 *Nota: Una versión en inglés de esta documentación está disponible en el archivo [README.md](README.md).*
