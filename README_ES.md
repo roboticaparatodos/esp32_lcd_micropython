@@ -5,6 +5,8 @@ Este repositorio contiene un ejemplo de cómo utilizar una pantalla LCD TFT RGB 
 
 Este proyecto fue creado a partir de los repositorios ya existentes de [boochow](https://github.com/boochow/MicroPython-ST7735) y [GuyCarver](https://github.com/GuyCarver/MicroPython/tree/master/lib), adaptando sus bibliotecas y ejemplos para esta implementación específica. Se reconoce y agradece a ambos desarrolladores por su trabajo original, del cual se han tomado archivos y ejemplos de referencia.
 
+Un [video de YouTube](https://www.youtube.com/watch?v=ai0BJjuORY8&lc=Ugxlqt8YrZTJFtawuj54AaABAg) también se encuentra disponible para seguir paso a paso las instrucciones necesarias.
+
 ## Requisitos
 - ESP32 con MicroPython instalado
 - Pantalla LCD TFT RGB con chip ST7735 (128x160 píxeles)
